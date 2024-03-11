@@ -13,7 +13,7 @@ Welcome to my repository where I share various machine learning projects that I 
 
 ### Bigmart Sales Prediction
    - *Description:* This project focuses on predicting the sales of various products in Bigmart stores. It involves data preprocessing, feature engineering, and the implementation of regression models to forecast sales accurately.
-   - *Notebook:* [Bigmart_Sales_Prediction.ipynb](link_to_notebook_bigmart_sales)
+   - *Notebook:* [Bigmart_Sales_Prediction.ipynb](notebooks/Bigmart%20Sales%20Prediction.ipynb)
 
 ### Fraud Detection
    - *Description:* Implementing a fraud detection model using machine learning algorithms. The project involves analyzing transaction data, feature engineering, and training a model to identify potentially fraudulent activities.
