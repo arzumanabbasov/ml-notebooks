@@ -17,7 +17,8 @@ Welcome to my repository where I share various machine learning projects that I 
 
 ### Fraud Detection
    - *Description:* Implementing a fraud detection model using machine learning algorithms. The project involves analyzing transaction data, feature engineering, and training a model to identify potentially fraudulent activities.
-   - *Notebook:* [Fraud_Detection.ipynb](link_to_notebook_fraud_detection)
+   - *Project:* [Fraud_Detection App](https://fraud-detection-cs.streamlit.app/)
+   - *Repo:* [Source Code](https://github.com/arzumanabbasov/fraud-detection)
 
 ### Stock Price Prediction
    - *Description:* Building a time series forecasting model to predict stock prices. The project includes data analysis, time series preprocessing, and the implementation of models such as ARIMA or LSTM for accurate predictions.
