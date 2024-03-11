@@ -21,8 +21,8 @@ Welcome to my repository where I share various machine learning projects that I 
    - *Repo:* [Source Code](https://github.com/arzumanabbasov/fraud-detection)
 
 ### Stock Price Prediction
-   - *Description:* Building a time series forecasting model to predict stock prices. The project includes data analysis, time series preprocessing, and the implementation of models such as ARIMA or LSTM for accurate predictions.
-   - *Notebook:* [Stock_Price_Prediction.ipynb](link_to_notebook_stock_price)
+   - *Description:* Building a time series forecasting model to predict stock prices. The project includes data analysis, time series preprocessing, and the implementation of models such as LSTM for accurate predictions.
+   - *Notebook:* [Stock_Price_Prediction.ipynb](notebooks/Stock%20Price%20Prediction%20using%20LSTM.iypnb)
 
 ### House Price Prediction
    - *Description:* Predicting house prices using regression models. The project involves exploring housing data, handling missing values, and training a model to estimate house prices based on various features.
